@@ -12,6 +12,7 @@ Don't just walk—hop through our structured roadmap! Each tutorial follows the 
 
 | Adventure | What's the deal? |
 | :--- | :--- |
+| 0. **[A Tour of Go](./00-a-tour-of-go/README.md)** | The grand introductory tour of the language. 🗺️ |
 | 1. **[Getting Started](./01-getting-started/README.md)** | "Hello World" is just the beginning. 🌍 |
 | 2. **[Create a Go Module](./02-create-a-go-module/README.md)** | Learn to organize your laundry... I mean, your code. 📦 |
 | 3. **[Workspace Wizardry](./03-multi-module-workspaces/README.md)** | Handle multiple modules like a circus juggler. 🤹 |
