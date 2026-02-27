@@ -22,7 +22,7 @@ Don't wander off! Follow these stops to master the basics and beyond:
 
 ## 🎒 Preparing for the Trip
 
-Make sure you've explored the [root documentation](../../README.md) to have your environment ready. 
+Make sure you've explored the [root documentation](../README.md) to have your environment ready. 
 
 > [!TIP]
 > Each exercise in this tour has a dedicated walkthrough. If you get stuck on a loop or a pointer, just check the corresponding README for a "Gopher Hint"!
